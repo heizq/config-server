@@ -1,5 +1,3 @@
-
 aether:
   storage:
     uri: http://localhost:9000/elevpic
-
